@@ -1,4 +1,4 @@
-# README
+# Multimedia
 
 В данном репозитории представлены результаты пяти лабораторных работ по исследованию различных алгоритмов машинного обучения на примере двух задач:
 1. **Классификация**: раннее выявление диабета (датасет [Early Stage Diabetes Risk Prediction](https://www.kaggle.com/datasets/tanshihjen/early-stage-diabetes-risk-prediction)).
